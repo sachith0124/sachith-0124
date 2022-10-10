@@ -8,9 +8,9 @@ I have a combined work experience of 2+ years in Web Developement and Data Scien
 
 I am interested in building cool new stuff with data and clever algorithms!
 
-I am currently living in College Station, TX; and am looking for any internship starting Spring '23 or a full time offer starting May '23.
+I am currently looking for any internship starting Spring '23 or a full time offer starting May '23.
 
-Feel free to reach me out!
+Feel free to reach out to me!
 
 [![LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)
 
