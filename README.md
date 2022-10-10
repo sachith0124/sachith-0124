@@ -10,9 +10,7 @@ I am interested in building cool new stuff with data and clever algorithms!
 
 I am currently looking for any internship starting Spring '23 or a full time offer starting May '23.
 
-Feel free to reach out to me!
-
-[LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sachith-janjirala/) !
 
 <!---
 sachith-0124/sachith-0124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
