@@ -12,7 +12,7 @@ I am currently looking for any internship starting Spring '23 or a full time off
 
 Feel free to reach out to me!
 
-[![LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)
+[LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)
 
 <!---
 sachith-0124/sachith-0124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
