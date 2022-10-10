@@ -1,5 +1,5 @@
 
-Howdy!! <img src="assets/wave.svg" alt=":wave:" />
+Howdy!! 👋
 
 My name is Sachith(@sachith-0124)! 
 
@@ -13,13 +13,6 @@ I am currently living in College Station, TX; and am looking for any internship 
 Feel free to reach me out!
 
 [![LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)
-
-
-- 👋 Hi, I’m @sachith-0124
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sachith-0124/sachith-0124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
