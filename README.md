@@ -7,7 +7,7 @@ I am a DataScience Grad Student at Texas A&M University, with an undergrad degre
 
 I have a combined work experience of 3+ years in Web Developement and Data Science. 💼
 
-I am currently looking for any internship starting Spring '23 or a full time offer starting May '23. 
+I am currently looking for a full time offer starting May '23. 
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)!
 
