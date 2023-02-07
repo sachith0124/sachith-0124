@@ -5,7 +5,7 @@ My name is Sachith(@sachith0124)!
 
 I am a DataScience Grad Student at Texas A&M University, with an undergrad degree in Computer Science and Engineering. 👨‍🎓
 
-I have a combined work experience of 2+ years in Web Developement and Data Science. 💼
+I have a combined work experience of 3+ years in Web Developement and Data Science. 💼
 
 I am currently looking for any internship starting Spring '23 or a full time offer starting May '23. 
 
