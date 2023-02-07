@@ -1,7 +1,7 @@
 
 Howdy!! 👋
 
-My name is Sachith(@sachith-0124)! 
+My name is Sachith(@sachith0124)! 
 
 I am a DataScience Grad Student at Texas A&M University, with an undergrad degree in Computer Science and Engineering. 👨‍🎓
 
