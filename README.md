@@ -1,15 +1,13 @@
 
 Howdy!! 👋
 
-My name is Sachith(@sachith0124)! 
+My name is Sachith(@sachith0124)! 👱‍♂️
 
-I am a DataScience Grad Student at Texas A&M University, with an undergrad degree in Computer Science and Engineering. 👨‍🎓
+A recent Data Science Grad from Texas A&M University, College Station; with an undergraduate Computer Science degree and 3+ years of work experience in Data Science and Software Engineering. Passionate about working with data to build and deploy scalable AI/ML models.
 
-I have a combined work experience of 3+ years in Web Developement and Data Science. 💼
+Checkout my website: [Sachith Kumar Janjirala](https://sachith.streamlit.app/)
 
-I am currently looking for a full time offer starting May '23. 
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sachith-janjirala/)!
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sachith-janjirala/) or via Email: sachith@tamu.edu
 
 <!---
 sachith-0124/sachith-0124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
