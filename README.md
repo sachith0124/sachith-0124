@@ -5,7 +5,8 @@ My name is Sachith(@sachith0124)! 👱‍♂️
 
 A recent Data Science Grad from Texas A&M University, College Station; with an undergraduate Computer Science degree and 3+ years of work experience in Data Science and Software Engineering. Passionate about working with data to build and deploy scalable AI/ML models.
 
-Checkout my website [here](https://sachith.streamlit.app/).
+Check out my website [here](https://sachith.streamlit.app/).
+
 And, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sachith-janjirala/) or via Email: sachith@tamu.edu
 
 <!---
